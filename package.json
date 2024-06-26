@@ -1,0 +1,22 @@
+{
+  "type": "module",
+  "name": "filter-json",
+  "version": "1.0.0",
+  "description": "Filtering JSON Data Tool",
+  "main": "index.js",
+  "devDependencies": {
+    "@octokit/core": "^6.1.2",
+    "axios": "^1.7.2",
+    "dotenv": "^16.4.5",
+    "https-proxy-agent": "^7.0.4"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "JSON",
+    "AIRDROPS"
+  ],
+  "author": "Enockkipkoech",
+  "license": "ISC"
+}
